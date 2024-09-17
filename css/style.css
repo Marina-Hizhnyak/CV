@@ -1,0 +1,242 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+/*main container*/
+
+.main-section {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background: #fff;
+  margin: 40px auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/*main content section*/
+
+.main-content-section {
+  padding: 100px 50px;
+}
+
+/*about-me-section*/
+
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 10px;
+}
+
+.about-me-section {
+  margin: 0 0 50px 0;
+}
+
+.about-my-profession {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700px;
+  line-height: 17px;
+  margin: 0 0 20px 0;
+  color: #000;
+}
+.about-my-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  margin: 20px 0 25px 0;
+  color: #000;
+}
+.about-my-description {
+  width: 800px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/*about-me-projects*/
+
+.about-me-projects {
+  margin: 0 0 40px 0;
+}
+
+.my-project-list {
+  padding: 0 0 0 25px;
+}
+.my-project-item {
+  color: #000;
+  font-weight: bold;
+}
+.my-project-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.my-project-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my-project-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+/*my-Work-Experience*/
+.my-Work-Experience {
+  margin-bottom: 45px;
+}
+.my-Work-Experience-company {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+.my-Work-Experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin: 0 0 10px 0;
+}
+
+.my-Work-Experience-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+.my-Work-Experience-period-devider {
+  color: #000;
+}
+
+.my-Work-Experience-duties {
+  padding: 0 0 0 18px;
+}
+.my-Work-Experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-Work-Experience-company-block {
+  margin: 0 15px 0 0;
+}
+/*Education*/
+.my-Education-header {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+.my-Education-university {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+.my-Education-university-faculty {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+/*sidebar-section*/
+.sidebar-section {
+  background-color: #1e2939;
+  width: 400px;
+  padding: 40px 0px;
+}
+
+.contacts-section,
+.tech-skills,
+.soft-skills {
+  margin: 50px 0px 0px 40px;
+}
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+/*contacts-section*/
+.contacts-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 5px;
+}
+.contacts-section-link {
+  color: #798089;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+/*tech-skills-section */
+.tech-skills-list {
+  padding-left: 18px;
+}
+.tech-skills-item {
+  color: #fb6d3a;
+}
+.tech-skills-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+/*soft-skills-section */
+.soft-skills-list {
+  padding-left: 18px;
+}
+.soft-skills-item {
+  color: #fb6d3a;
+}
+.soft-skills-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+
+.photo-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.photo-profil {
+  height: 300px;
+  width: auto;
+}
