@@ -218,7 +218,7 @@ body {
 .soft-skills-list {
   padding-left: 18px;
 }
-.soft-skills-item {
+.soft-skills-item, .hobbies-list-item {
   color: #fb6d3a;
 }
 .soft-skills-item-text {
@@ -239,4 +239,18 @@ body {
 .photo-profil {
   height: 300px;
   width: auto;
+}
+
+.icon {
+  color: #fb6d3a;
+  padding-right: 5px;
+}
+.hobbies-list {
+  list-style-type: none;
+}
+.hobbies-list {
+  padding-left: 3px;
+}
+.hobbies-list-item {
+  padding-left: 5px;
 }
