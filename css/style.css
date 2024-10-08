@@ -36,7 +36,7 @@ body {
 }
 
 .about-my-profession {
-  font-size: 14px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 700px;
   line-height: 17px;
@@ -46,7 +46,7 @@ body {
 .about-my-name {
   font-style: normal;
   font-weight: bold;
-  font-size: 45px;
+  font-size: 20px;
   line-height: 55px;
   margin: 20px 0 25px 0;
   color: #000;
